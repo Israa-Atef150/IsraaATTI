@@ -1,0 +1,6 @@
+- 👀 I’m interested in web development and front-end design.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and React.
+- 💞️ I’m looking to collaborate on front-end projects, especially in React and web design.
+- 📫 How to reach me: You can contact me at israaatef150@gmail.com or via GitHub messages.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I’m passionate about graphic design and love bringing creative ideas to life through code!
